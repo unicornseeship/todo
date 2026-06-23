@@ -32,6 +32,8 @@
 	.virtual-keyboard .keys {
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
 	}
 
 	@media only screen and (pointer: coarse) {
